@@ -1,0 +1,22 @@
+body {
+    font-family: 'Sen', sans-serif;
+}
+
+
+.asd1 {
+    font-size: 30px; 
+    color: green;
+    text-decoration: underline;
+}
+
+.asd2 {
+    font-size: 30px; 
+    color: green;
+    text-decoration: none;
+
+}
+
+a :hover {
+    color: limegreen;
+    
+}
